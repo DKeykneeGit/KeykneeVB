@@ -1,0 +1,8 @@
+D:\DK-VB-Files\ZDK-VBTest\CopyBU2NAS-VB-v00.01.0\bin\Debug\WindowsApplication.exe.config
+D:\DK-VB-Files\ZDK-VBTest\CopyBU2NAS-VB-v00.01.0\obj\x86\Debug\CopyBU2NAS-VB-v00.02.0.vbprojResolveAssemblyReference.cache
+D:\DK-VB-Files\ZDK-VBTest\CopyBU2NAS-VB-v00.01.0\obj\x86\Debug\CopyBU2NAS_VB_v00._02._0.Form1.resources
+D:\DK-VB-Files\ZDK-VBTest\CopyBU2NAS-VB-v00.01.0\obj\x86\Debug\CopyBU2NAS-VB-v00.02.0.vbproj.GenerateResource.Cache
+D:\DK-VB-Files\ZDK-VBTest\CopyBU2NAS-VB-v00.01.0\bin\Debug\WindowsApplication.exe
+D:\DK-VB-Files\ZDK-VBTest\CopyBU2NAS-VB-v00.01.0\bin\Debug\WindowsApplication.pdb
+D:\DK-VB-Files\ZDK-VBTest\CopyBU2NAS-VB-v00.01.0\obj\x86\Debug\WindowsApplication.exe
+D:\DK-VB-Files\ZDK-VBTest\CopyBU2NAS-VB-v00.01.0\obj\x86\Debug\WindowsApplication.pdb
